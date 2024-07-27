@@ -1,16 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Tappy_Treasure.Models;
+﻿using Contacts_Manager.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace Tappy_Treasure.Data
+namespace Contacts_Manager.Data
 {
-	public class myDBContext : DbContext
-	{
-		public myDBContext(DbContextOptions<myDBContext> options) : base(options) { }
+    public class myDBContext : DbContext
+    {
+        public myDBContext(DbContextOptions<myDBContext> options) : base(options) { }
 
-		public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
 
-		// No need to modify OnConfiguring anymore
-	}
+        // No need to modify OnConfiguring anymore
+    }
 }
 
 //optionsBuilder.UseSqlServer("Server=MSI\\SQLEXPRESS;Database=Tappy_Treasure;Trusted_Connection=True;");

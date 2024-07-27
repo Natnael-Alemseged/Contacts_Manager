@@ -1,4 +1,4 @@
-namespace Tappy_Treasure.Models
+namespace Contacts_Manager.Models
 {
     public class ErrorViewModel
     {

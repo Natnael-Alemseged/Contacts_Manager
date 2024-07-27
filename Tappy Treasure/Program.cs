@@ -1,6 +1,6 @@
+using Contacts_Manager.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
-using Tappy_Treasure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,9 +21,6 @@ if (connectionString!=null)
 	builder.Services.AddDbContext<myDBContext>(options => options.UseSqlServer(connectionString));
 
 }
-
-
-
 
 
 

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tappy Treasure.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Tappy Treasure.bundle.scp.css"
+      "Id": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Contacts Manager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Contacts Manager.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tappy Treasure.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Contacts Manager.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tappy Treasure.props",
-      "PackagePath": "build\\Tappy Treasure.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Contacts Manager.props",
+      "PackagePath": "build\\Contacts Manager.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tappy Treasure.props",
-      "PackagePath": "buildMultiTargeting\\Tappy Treasure.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Contacts Manager.props",
+      "PackagePath": "buildMultiTargeting\\Contacts Manager.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tappy Treasure.props",
-      "PackagePath": "buildTransitive\\Tappy Treasure.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Contacts Manager.props",
+      "PackagePath": "buildTransitive\\Contacts Manager.props"
     }
   ],
   "ElementsToRemove": []

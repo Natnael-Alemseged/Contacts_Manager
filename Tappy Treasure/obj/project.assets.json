@@ -4231,9 +4231,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\Tappy Treasure.csproj",
-      "projectName": "Tappy Treasure",
-      "projectPath": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\Tappy Treasure.csproj",
+      "projectUniqueName": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\Contacts Manager.csproj",
+      "projectName": "Contacts Manager",
+      "projectPath": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\Contacts Manager.csproj",
       "packagesPath": "C:\\Users\\Natia\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\obj\\",
       "projectStyle": "PackageReference",

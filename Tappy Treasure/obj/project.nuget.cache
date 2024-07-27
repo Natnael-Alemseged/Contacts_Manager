@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RGmWXj+0E0w=",
+  "dgSpecHash": "/w2PwJT3o/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\Tappy Treasure.csproj",
+  "projectFilePath": "C:\\Users\\Natia\\source\\repos\\Tappy Treasure\\Tappy Treasure\\Contacts Manager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Natia\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Natia\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
