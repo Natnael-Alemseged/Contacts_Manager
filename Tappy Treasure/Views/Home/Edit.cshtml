@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+ @model Tappy_Treasure.Models.Contact
+
+<div>
+    <h1>Edit Contacts</h1>
+    <form asp-action="Edit" asp-controller="Home" method="post">
+        <div class="form-group">
+            <label for="id">Id</label>
+            <input type="text" class="form-control" id="id" name="id" required asp-for="Id" readonly />
+            <label for="name">Name</label>
+            <input type="text" class="form-control" id="name" name="Name" required asp-for="Name" />
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" class="form-control" id="email" name="Email" required asp-for="Email">
+            </div>
+            <div class="form-group">
+                <label for="message">Message:</label>
+                <textarea class="form-control" id="message" name="Message" rows="3" required asp-for="Message"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+
+    </form>
+</div>
