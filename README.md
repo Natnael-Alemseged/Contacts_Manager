@@ -1,1 +1,1 @@
-#A robust contact management application built with .NET MVC, utilizing Entity Framework Core for data access and MSSQL as the database. Employs environment variables to securely store connection strings, ensuring sensitive information is protected.
+A robust contact management application built with .NET MVC, utilizing Entity Framework Core for data access and MSSQL as the database. Employs environment variables to securely store connection strings, ensuring sensitive information is protected.
